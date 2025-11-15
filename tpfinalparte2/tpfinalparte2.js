@@ -1,3 +1,5 @@
+//https://youtu.be/4NyQ6HXNYB4 Link al video explicativo. 
+
 let objjuego;
 let imgPersonaje, imgEnemigo, imgBalaEnemigo, imgBalaPersonaje;
 let vidaEnemigo, vidaPersonaje;
@@ -45,3 +47,4 @@ function keyReleased() {
 function mousePressed() {
   if (objjuego) objjuego.mousePressed();
 }
+
